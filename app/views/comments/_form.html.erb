@@ -21,10 +21,8 @@
     <%= form.text_area :body %>
   </div>
 
-  <div>
-    <%= form.label :idea_id, style: "display: block" %>
-    <%= form.number_field :idea_id %>
-  </div>
+  <%= form.hidden_field :idea_id %>
+
 
   <div>
     <%= form.submit %>
