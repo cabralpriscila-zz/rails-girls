@@ -7,6 +7,7 @@ gem "bootsnap", require: false
 gem "carrierwave"
 gem "importmap-rails"
 gem "jbuilder"
+gem "mini_magick"
 gem "puma", "~> 5.0"
 gem "rails", "~> 7.0.4"
 gem "sprockets-rails"
