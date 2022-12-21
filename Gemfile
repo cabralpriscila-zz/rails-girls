@@ -5,6 +5,7 @@ ruby "3.1.3"
 
 gem "bootsnap", require: false
 gem "carrierwave"
+gem "devise"
 gem "importmap-rails"
 gem "jbuilder"
 gem "mini_magick"
